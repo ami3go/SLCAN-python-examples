@@ -8,6 +8,6 @@ This example design to work with SLCAN interface:
 - https://github.com/ami3go/SLCAN-interface-firmware
 - https://github.com/ami3go/SLCAN-interface-hardware
 
-  # DBC file only editor
+  # .DBC file only editor
 
   https://www.csselectronics.com/pages/dbc-editor-can-bus-database
